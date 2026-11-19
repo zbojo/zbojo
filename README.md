@@ -1,4 +1,4 @@
-# Hi, I'm [meno]Martin 
+# Hi, I'm Martin
 
 I study Computer Science at the Technical University of Košice (TUKE).
 Most of my work is web development, but what I enjoy building the most
@@ -24,4 +24,6 @@ feel free to reach out.
 
 ### Contact
 
-[e-mail]zbojovsky.martin@gmail.com · [LinkedIn]https://www.linkedin.com/in/martin-zbojovsk%C3%BD-32831b293/
+### Contact
+
+[zbojovsky.martin@gmail.com](mailto:zbojovsky.martin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/martin-zbojovsk%C3%BD-32831b293/)
