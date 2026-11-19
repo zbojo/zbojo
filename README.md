@@ -1,4 +1,4 @@
-# Hi, I'm [meno]
+# Hi, I'm [meno]Martin 
 
 I study Computer Science at the Technical University of Košice (TUKE).
 Most of my work is web development, but what I enjoy building the most
